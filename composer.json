@@ -22,7 +22,7 @@
     "require": {
         "php": ">=8",
         "ext-json": "*",
-        "monolog/monolog": "^2.8",
+        "monolog/monolog": "^3.0",
         "phrity/websocket": "^1.6"
     },
     "require-dev": {
